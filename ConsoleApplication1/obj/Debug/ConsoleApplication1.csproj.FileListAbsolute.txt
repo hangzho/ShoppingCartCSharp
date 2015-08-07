@@ -1,0 +1,8 @@
+c:\users\johan\documents\visual studio 2012\Projects\AdoLib_ZhouHang\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\johan\documents\visual studio 2012\Projects\AdoLib_ZhouHang\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\johan\documents\visual studio 2012\Projects\AdoLib_ZhouHang\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\johan\documents\visual studio 2012\Projects\AdoLib_ZhouHang\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\johan\documents\visual studio 2012\Projects\AdoLib_ZhouHang\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\johan\documents\visual studio 2012\Projects\AdoLib_ZhouHang\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Johan\Documents\Visual Studio 2012\Projects\AdoLib_ZhouHang\ConsoleApplication1\bin\Debug\AdoLib_ZhouHang.dll
+C:\Users\Johan\Documents\Visual Studio 2012\Projects\AdoLib_ZhouHang\ConsoleApplication1\bin\Debug\AdoLib_ZhouHang.pdb

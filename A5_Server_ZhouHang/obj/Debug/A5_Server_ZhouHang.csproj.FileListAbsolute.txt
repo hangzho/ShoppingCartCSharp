@@ -1,0 +1,7 @@
+c:\users\johan\documents\visual studio 2012\Projects\AdoLib_ZhouHang\A5_Server_ZhouHang\bin\A5_Server_ZhouHang.dll
+c:\users\johan\documents\visual studio 2012\Projects\AdoLib_ZhouHang\A5_Server_ZhouHang\bin\A5_Server_ZhouHang.pdb
+c:\users\johan\documents\visual studio 2012\Projects\AdoLib_ZhouHang\A5_Server_ZhouHang\obj\Debug\A5_Server_ZhouHang.csprojResolveAssemblyReference.cache
+c:\users\johan\documents\visual studio 2012\Projects\AdoLib_ZhouHang\A5_Server_ZhouHang\obj\Debug\A5_Server_ZhouHang.dll
+c:\users\johan\documents\visual studio 2012\Projects\AdoLib_ZhouHang\A5_Server_ZhouHang\obj\Debug\A5_Server_ZhouHang.pdb
+c:\users\johan\documents\visual studio 2012\Projects\AdoLib_ZhouHang\A5_Server_ZhouHang\bin\AdoLib_ZhouHang.dll
+c:\users\johan\documents\visual studio 2012\Projects\AdoLib_ZhouHang\A5_Server_ZhouHang\bin\AdoLib_ZhouHang.pdb

@@ -1,0 +1,10 @@
+C:\Users\Johan\Documents\Visual Studio 2012\Projects\AdoLib_ZhouHang\A5_Client_ZhouHang\bin\Debug\A5_Client_ZhouHang.exe.config
+C:\Users\Johan\Documents\Visual Studio 2012\Projects\AdoLib_ZhouHang\A5_Client_ZhouHang\bin\Debug\A5_Client_ZhouHang.exe
+C:\Users\Johan\Documents\Visual Studio 2012\Projects\AdoLib_ZhouHang\A5_Client_ZhouHang\bin\Debug\A5_Client_ZhouHang.pdb
+C:\Users\Johan\Documents\Visual Studio 2012\Projects\AdoLib_ZhouHang\A5_Client_ZhouHang\obj\Debug\A5_Client_ZhouHang.Form1.resources
+C:\Users\Johan\Documents\Visual Studio 2012\Projects\AdoLib_ZhouHang\A5_Client_ZhouHang\obj\Debug\A5_Client_ZhouHang.Form2.resources
+C:\Users\Johan\Documents\Visual Studio 2012\Projects\AdoLib_ZhouHang\A5_Client_ZhouHang\obj\Debug\A5_Client_ZhouHang.Properties.Resources.resources
+C:\Users\Johan\Documents\Visual Studio 2012\Projects\AdoLib_ZhouHang\A5_Client_ZhouHang\obj\Debug\A5_Client_ZhouHang.csproj.GenerateResource.Cache
+C:\Users\Johan\Documents\Visual Studio 2012\Projects\AdoLib_ZhouHang\A5_Client_ZhouHang\obj\Debug\A5_Client_ZhouHang.exe
+C:\Users\Johan\Documents\Visual Studio 2012\Projects\AdoLib_ZhouHang\A5_Client_ZhouHang\obj\Debug\A5_Client_ZhouHang.pdb
+C:\Users\Johan\Documents\Visual Studio 2012\Projects\AdoLib_ZhouHang\A5_Client_ZhouHang\obj\Debug\A5_Client_ZhouHang.csprojResolveAssemblyReference.cache
